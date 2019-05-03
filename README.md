@@ -1,5 +1,5 @@
 # CSC322
-escription
+Description
 Using UNIX
 User environment
 File system
