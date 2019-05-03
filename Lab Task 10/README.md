@@ -1,5 +1,3 @@
-
-Question
 Here's the main function of a program that
 Reads in two matrices by prompting the user for their dimensions, dynamically allocating memory from the heap, and reading the values into the memory using row major ordering for the matrix values.
 Multiplies the two matrices together and puts the result into another dynamically allocated piece of memory (after checking that the dimensions are appropriate for matric multiplication).
